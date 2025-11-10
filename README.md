@@ -25,6 +25,8 @@ This collection serves as a personal archive to:
 ## 🤖 Projects
 - Task Tracker CLI - https://github.com/Caleb-Bako/backend_roadmap_projects/tree/main/Task_Tracker
 
+---
+
 ## ✝️ Dedication
 All my work is dedicated to **Jesus Christ**, my source of wisdom and strength.  
 > “Whatever you do, do it all for the glory of God.” – 1 Corinthians 10:31
