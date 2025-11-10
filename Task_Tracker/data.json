@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "items": "eggs",
+    "status": "todo"
+  },
+  {
+    "id": 1,
+    "items": "cheese",
+    "status": "in-progress"
+  },
+  {
+    "id": 2,
+    "items": "beef",
+    "status": "todo"
+  },
+  {
+    "id": 3,
+    "items": "cabbage",
+    "status": "todo"
+  }
+]
