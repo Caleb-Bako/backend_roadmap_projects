@@ -23,7 +23,9 @@ This collection serves as a personal archive to:
 ---
 
 ## 🤖 Projects
-- Task Tracker CLI - https://github.com/Caleb-Bako/backend_roadmap_projects/tree/main/Task_Tracker
+- Task Tracker CLI - https://github.com/Caleb-Bako/backend_roadmap_projects/tree/main/Task_Tracker inspired from https://roadmap.sh/projects/task-tracker
+
+
 
 ---
 
