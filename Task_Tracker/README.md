@@ -19,8 +19,8 @@ This CLI app lets you **add, list, update, delete, and mark tasks** with differe
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/task-tracker-cli.git
-   cd task-tracker-cli
+   git clone https://github.com/Caleb-Bako/backend_roadmap_projects/tree/main/Task_Tracker
+   cd Task_Tracker
    ```
 
 2. **Initialize Node.js (if needed):**
