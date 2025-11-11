@@ -18,7 +18,7 @@ This project was created as part of my learning journey and practice in JavaScri
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/unit-converter.git
+   git clone https://github.com/Caleb-Bako/backend_roadmap_projects/tree/main/Unit_Converter
    cd unit-converter
    ```
 

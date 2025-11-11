@@ -24,7 +24,7 @@ This collection serves as a personal archive to:
 
 ## 🤖 Projects
 - Task Tracker CLI - https://github.com/Caleb-Bako/backend_roadmap_projects/tree/main/Task_Tracker inspired from https://roadmap.sh/projects/task-tracker
-
+- Unit Convertor - https://github.com/Caleb-Bako/backend_roadmap_projects/tree/main/Unit_Converter inspired from https://roadmap.sh/projects/unit-converter
 
 
 ---
